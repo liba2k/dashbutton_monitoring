@@ -1,6 +1,6 @@
 I've started playing with Amazon Dash Buttons, while it's interesting to hack them (they have wifi, bluetooth and a mic) it's hard work, see: https://www.youtube.com/watch?v=7he02D7Wqgk
 
-![Dash button image] (https://noveltystreet.com/wp-content/uploads/2015/08/Amazon-Dash-Button-Gatorade.jpg)
+![Dash button image] (Amazon-Dash-Button-Gatorade.jpg)
 
 What most people do is just set the button not to buy anything and monitor arp traffic on the wifi network to detect the button's connection when it wakes up. However searching on google led me to two infrastructures. A node JS one and a python one (see: https://github.com/BraedenYoung/PracticeTracker). 
 
